@@ -3,4 +3,6 @@
 
 Some stuff I use.
 
-> Nothing to see here yet, move along
+bin/ 
+> Some binaries, compiled from AOSP Master, useful for Android-Developers
+> Linux-x86
