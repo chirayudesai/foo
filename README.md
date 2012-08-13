@@ -1,7 +1,7 @@
 Foo
 ===
 
-Some stuff I use.
+Some stuff.
 
 bin/
 
